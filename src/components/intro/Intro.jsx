@@ -32,7 +32,7 @@ return (
 
     <div className="i-rigth">
         <div className="i-bg"></div>
-      
+      <img src={Code} alt='yo' className='i-img'  />
     </div>
   </div>
 );
